@@ -39,7 +39,7 @@ As this is a proof of concept, contributions, suggestions, and feedback are welc
 
 ## License
 
-[Add your chosen license here]
+Open-Source
 
 ---
 
