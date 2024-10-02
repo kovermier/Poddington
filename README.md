@@ -1,6 +1,6 @@
 # Poddington
 
-Poddington is a Python-based project (currently in beta/proof of concept stage) that is related to audio processing and podcasting. It is designed to process audio files and perform various operations on them.
+Poddington is a Python-based project (currently in beta/proof of concept stage) that is related to audio processing and podcasting. It is designed to text inputs, summarize and create a dialogue podcast.
 
 ## Project Structure
 
