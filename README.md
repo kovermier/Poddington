@@ -5,7 +5,6 @@ Poddington is a Python-based project (currently in beta/proof of concept stage) 
 ## Project Structure
 
 - `Poddington.py`: Main Python script
-- `GroqTest.py`: Possibly a test script using Groq (an AI model or library)
 - `requirements.txt`: List of Python dependencies
 - `.env`: Environment variables file (make sure this is not committed if it contains sensitive information)
 
