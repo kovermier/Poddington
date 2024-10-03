@@ -1,4 +1,4 @@
-# Poddington
+# Poddington 0.1.0 
 
 Poddington is a Python-based project (currently in beta/proof of concept stage) that is related to audio processing and podcasting. It is designed to text inputs, summarize and create a dialogue podcast.
 
