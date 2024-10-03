@@ -6,7 +6,7 @@ Poddington is a Python-based project (currently in beta/proof of concept stage) 
 
 - `Poddington.py`: Main Python script
 - `requirements.txt`: List of Python dependencies
-- `.env`: Environment variables file (make sure this is not committed if it contains sensitive information)
+- `.env`: Environment variables file 
 
 ## Setup
 
